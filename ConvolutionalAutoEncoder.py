@@ -1,11 +1,4 @@
-"""
-Deep Convolutional Autoencoder with TensorFlow
 
-Arash Saber Tehrani - May 2017
-
-"""
-#   ---------------------------------
-# import required packages
 import os
 import re
 import utility_functions as utils
